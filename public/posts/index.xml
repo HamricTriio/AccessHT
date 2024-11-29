@@ -13,7 +13,7 @@
       <link>https://example.org/posts/testing/</link>
       <pubDate>Fri, 29 Nov 2024 00:00:00 +0000</pubDate>
       <guid>https://example.org/posts/testing/</guid>
-      <description>&lt;p&gt;Testing the Obsidian to GitHub Script&amp;hellip;&lt;/p&gt;&#xA;&lt;p&gt;Created in 2023 by M:&#xA;!&#xD;&#xA;&lt;figure&gt;&#xD;&#xA;  &lt;img src=&#34;https://example.org/images//Images/HT%20%28Challenge%20_5%29.png&#34; alt=&#34;Image Description&#34; /&gt;&#xD;&#xA;&lt;/figure&gt;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;![Alt](Images/HT (Challenge _5) 1.png “The Images shows H. Dot T., above the words, Hamric Treo. The Letters cut out into a Photo of a Cello being played with a bow.”)![[]]&lt;/p&gt;</description>
+      <description>&lt;h2 id=&#34;update-still-working-on-accessing-images-via-obsidian-stay-tuned-alt-text-embedded-delayed&#34;&gt;&lt;strong&gt;Update: Still working on Accessing Images via Obsidian, Stay Tuned&amp;hellip; (Alt text Embedded delayed)&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Testing the Obsidian to GitHub Script&amp;hellip;&lt;/p&gt;&#xA;&lt;p&gt;Created in 2023 by M:&#xA;(The Description of this image is shown after the Image due to an Alt Text Issue in Obsidian)&#xA;!&#xD;&#xA;&lt;figure&gt;&#xD;&#xA;  &lt;img src=&#34;https://example.org/images/HT%20%28Challenge%20_5%29%201.png&#34; alt=&#34;Image Description&#34; /&gt;&#xD;&#xA;&lt;/figure&gt;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xA;The Images shows H. Dot T., above the words, Hamric Treo. The Letters cut out into a Photo of 2  Cellos, and a Bow separating the two phrases.&lt;/p&gt;</description>
     </item>
     <item>
       <title>M&#39;s First Post</title>
