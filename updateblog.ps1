@@ -151,5 +151,7 @@ try {
 
 # Delete the temporary branch
 git branch -D hostinger-deploy
+cd C:\Users\micha\OneDrive\Documents\Sites\HamricTriio-Blog_main
+.\updateblog.ps1
 
 Write-Host "All done! Site synced, processed, committed, built, and deployed."
