@@ -14,5 +14,5 @@ Testing the Obsidian to GitHub Script...
 
 Created in 2023 by M:
 (The Description of this image is shown after the Image due to an Alt Text Issue in Obsidian)
-!![Image Description](/images//posts/Images/HT%20(Challenge%20_5).png)
+!![Image Description](/static/Images/'HT(Challenge_5).png')
 The Images shows H. Dot T., above the words, Hamric Treo. The Letters cut out into a Photo of 2  Cellos, and a Bow separating the two phrases.  
